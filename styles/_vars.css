@@ -1,0 +1,8 @@
+body {
+    --cyan-color: cyan;
+    --white-color: white;
+    --black-color: black;
+    --violet-color: #700fd7;
+    --violet-hover-color: rgba(112, 15, 215, 0.55);
+    --gradient-background-color: linear-gradient(90deg, #2b0ca3, #85435a);
+}
